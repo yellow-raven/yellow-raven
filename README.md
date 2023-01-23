@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am François Lebas and serve as Co-Founder at [Mutoal](https://mutoal.com/). 
+I am François and serve as Co-Founder at [Mutoal](https://mutoal.com/). 
 
 The reason I picked up coding was to develop MVPs to validate or invalidate my business ideas quickly and cheaply through early user feedback. Still learning a lot, but I am getting better everyday.
 <div> 
