@@ -9,13 +9,16 @@ The reason I picked up coding was to develop MVPs to validate or invalidate my b
 
 ### I have experience using the following technologies:
 
-- <strong>Wireframing/Prototyping:</strong> Pen & paper, FigJam, Figma
-- <strong>Programming Languages:</strong> Python, SQL, javaScript
-- <strong>Frameworks:</strong> Flask, React
-- <strong>Version Control Systems:</strong> Git/GitLab
-- <strong>Cloud Computing platforms:</strong> GCP (Cloud Run, Firebase, Cloud Storage, BigQuery, Artifact Registery, Secret Manager, Identity Platform)
-- <strong>IDE:</strong> Visual Code, Jupyter Lab
-- <strong>Project Management Tools:</strong> ClickUp, GitLab, Jira, Confluence
+|        Use case          |      Technologies           |
+|:-------------------------|:-----------------------------|
+| Web Crawlers | Python, beautifulsoup, selenium |
+| Data Analysis | Python, pandas, plotly |
+| Data Engineering | Python, SQL, Cloud Storage, Big Query |
+| Wireframing/Prototyping  |  Pen & paper, FigJam, Figma |
+| API development | Flask |
+| Front-end  | React |
+| Serverless deployment | Firebase, Cloud Run + Artifact Repository + Secret Manager + Identity Platform |
+| Version Control  | Git, GitLab, GitHub |
 
 ### I am currently learning:
 
