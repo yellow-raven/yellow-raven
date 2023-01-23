@@ -7,7 +7,7 @@ The reason I picked up coding was to develop MVPs to validate or invalidate my b
   <a href="https://www.linkedin.com/in/francoislebas/" target="_blank">Linkedin</a>
 </div>
 
-### I have experience using the following technologies
+### I have experience using the following technologies:
 
 - <strong>Wireframing/Prototyping:</strong> Pen & paper, FigJam, Figma
 - <strong>Programming Languages:</strong> Python, SQL, javaScript
