@@ -13,7 +13,7 @@ The reason I picked up coding was to develop MVPs to validate or invalidate my b
 |:-------------------------|:-----------------------------|:-----------------------------|
 | Web Crawlers | Python, beautifulsoup, selenium ||
 | Data Analysis | Python, pandas, plotly ||
-| Data Engineering | Python, SQL, Cloud Storage, BigQuery ||
+| Data Engineering | Python, SQL, Cloud Storage, Apache Beam, Dataflow, BigQuery ||
 | Wireframing/Prototyping  |  Pen & paper, FigJam, Figma ||
 | API development | Flask ||
 | Front-end  | React ||
@@ -23,7 +23,15 @@ The reason I picked up coding was to develop MVPs to validate or invalidate my b
 ### I am currently learning:
 
 - Dataflow/Apache Beam to improve the way I transfer data from Cloud Storage to BigQuery
+
+### I am planning on learning:
+
 - DBT, to improve the way I transform data in BigQuery
+- scrapy, to build more powerful web crawlers
+
+### Project ideas:
+
+- Game attendance prediction  (based on past attendance, location, teams, weather, tweets, etc)
 
 ### My stats on GitHub:
 
