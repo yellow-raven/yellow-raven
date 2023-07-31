@@ -16,7 +16,7 @@ I picked up coding to develop MVPs to validate or invalidate my business ideas q
 | Data Engineering | Python, SQL, Cloud Storage, Apache Beam, Dataflow, BigQuery ||
 | Wireframing/Prototyping  |  Pen & paper, FigJam, Figma ||
 | API development | Flask, Celery, RabbitMQ, Redis |[Async API](https://github.com/yellow-raven/async_tasks_api)|
-| Front-end  | React ||
+| Front-end  | React |[Static Page](https://github.com/yellow-raven/static_react_app)|
 | Serverless deployment | Firebase, Cloud Run + Artifact Repository + Secret Manager + Identity Platform | [Authentication](https://github.com/yellow-raven/react-firebase-auth) |
 | Version Control  | Git, GitLab, GitHub |
 
