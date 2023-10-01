@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am François, and I love building new things that solve problems.
-I picked up coding to develop MVPs to validate or invalidate my business ideas quickly and cheaply through early user feedback. Still learning a lot, but I am getting better every day.
+I picked up coding to develop MVPs to validate or invalidate my business ideas quickly and cheaply through early user feedback. Still learning a lot.
 <div> 
   <a href="https://www.linkedin.com/in/francoislebas/" target="_blank">Linkedin</a>
 </div>
