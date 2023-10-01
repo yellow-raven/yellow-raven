@@ -22,14 +22,16 @@ I picked up coding to develop MVPs to validate or invalidate my business ideas q
 ### I am currently learning:
 
 - Celery to perform long background tasks (big data processing)
+- Adding positional parameters to SQL queries
 
 ### I am planning on learning:
 
-- DBT, because everybody talks about it
+- Building apps on the Shopify App Store
+- Building apps on the Slack App Store
 
 ### Project ideas:
 
-- Game attendance prediction  (based on past attendance, location, teams, weather, tweets, etc.)
+- NFL Game attendance prediction (based on past attendance, location, teams, weather, tweets, etc.)
 
 ### My stats on GitHub:
 
