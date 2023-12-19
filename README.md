@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am François, and I love building new things that solve problems.
-I picked up coding to develop MVPs to validate or invalidate my business ideas quickly and cheaply through early user feedback. Still learning a lot.
+I picked up coding to develop MVPs to validate or invalidate my business ideas quickly and cheaply through early user feedback. On the way, I developed a passion for everything data - data engineering in particular. I'm still learning a lot.
 <div> 
   <a href="https://www.linkedin.com/in/francoislebas/" target="_blank">Linkedin</a>
 </div>
@@ -21,13 +21,12 @@ I picked up coding to develop MVPs to validate or invalidate my business ideas q
 
 ### I am currently learning:
 
-- Celery to perform long background tasks (big data processing)
-- Adding positional parameters to SQL queries
+- Building apps on the Slack App Store
+- Query optimization
 
 ### I am planning on learning:
 
 - Building apps on the Shopify App Store
-- Building apps on the Slack App Store
 
 ### Project ideas:
 
