@@ -26,11 +26,16 @@ I picked up coding to develop MVPs to validate or invalidate my business ideas q
 
 - Event-driven data processing
 - Great UX/UI for data visualization
+- Getting more confortable with Airflow
 
 ### I am planning on learning:
 
 - Transforming geolocation coordinates into H3 format (Open-Source format developped by Uber) and visualizing the data at multiple granularity levels.
+- Implementing Metabase inside a proprietary app
+- Spark
+- Kafka
 
-### Project ideas:
+### Project backlog:
 
 - More geographical data projects (CPG sales, mining, city-related use cases)
+- Implementing H3 visualization in Metabase
