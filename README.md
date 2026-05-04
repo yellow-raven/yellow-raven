@@ -14,7 +14,7 @@ I picked up coding to develop MVPs to validate or invalidate my business ideas q
 | Web Crawlers | beautifulsoup, selenium ||
 | Data Analysis | pandas, plotly ||
 | Databases | PostgreSQL, PostGIS ||
-| Data Engineering | Python, SQL, dbt, Cloud Storage, BigQuery, Airflow ||
+| Data Engineering | Python, SQL, dbt, Cloud Storage, BigQuery, Dagster ||
 | API development | Flask, Celery, RabbitMQ, Redis |[Async API](https://github.com/yellow-raven/async_tasks_api)|
 | Front-end  | React, shadcn |[Static Page](https://github.com/yellow-raven/static-react-app)|
 | Cloud | AWS: [RDS, EC2, S3], GCP: [Firebase, Cloud Run] ||
@@ -22,20 +22,7 @@ I picked up coding to develop MVPs to validate or invalidate my business ideas q
 | DevOps | GitHub Actions, Docker ||
 | Version Control  | Git, GitLab, GitHub |
 
-### I am currently learning:
-
-- Event-driven data processing
-- Great UX/UI for data visualization
-- Getting more confortable with Airflow
-
-### I am planning on learning:
-
-- Transforming geolocation coordinates into H3 format (Open-Source format developped by Uber) and visualizing the data at multiple granularity levels.
-- Implementing Metabase inside a proprietary app
-- Spark
-- Kafka
 
 ### Project backlog:
 
 - More geographical data projects (CPG sales, mining, city-related use cases)
-- Implementing H3 visualization in Metabase
